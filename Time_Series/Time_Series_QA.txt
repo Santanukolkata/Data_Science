@@ -1,0 +1,84 @@
+_______________________ is a form of Auto Regressive model where the coefficient of first lag is 1 .(COR)
+
+Random walk
+
+*************************************************************************************
+Multivariate time series includes lag of _______________ and _____________
+Coefficient and Error Terms
+*************************************************************************************
+AR , MA and ARMA models can handle non-stationary time series data ?(COR)
+False
+*************************************************************************************
+Exponential smoothing models can be considered as ARIMA models ?(COR)
+True
+*************************************************************************************
+___________________________ is a multivariate generalization of a uni-variate auto regressive time series model
+VAR
+*************************************************************************************
+If there is no decay in the ACF values for any number of lags , what can you say about the time series .(COR)
+Stationary
+
+*************************************************************************************
+You take a time series and determine the characteristic equation. You find the roots and conclude that they lie within the unit circle. What can you say about the Time Series ?(COR)
+
+it is on stationary
+*************************************************************************************
+An Ideal ACF plot will increase exponentially ?(COR)
+
+False
+*************************************************************************************
+
+The Auto Correlation Function is Unitless.(COR)
+True
+*************************************************************************************
+Structural Models have a time component.
+True
+
+*************************************************************************************
+What is the term used to quantify the relationship between the current value and previous values in a time series known as ?(COR)
+
+Auto Correlation Function
+*************************************************************************************
+What does a p order vector auto regressive process generalize ?(COR)
+1 variable AR(p) process to n variables
+*************************************************************************************
+What methodology can be used for Estimating the coefficients in a Time Series Model ?(COR)
+
+OLS AND ML
+*************************************************************************************
+My time series model is predicting well for the available data but not predicting accurately for new data. What problem might I have encountered ?(COR)
+
+Over-fitting
+*************************************************************************************
+What is the outcome of Model Fitting process for Auto Regression ?(COR)
+
+Determining the Coefficient
+*************************************************************************************
+
+ARIMA (0,0,1) is equivalent to _____________(COR)
+
+MA Model
+*************************************************************************************
+What are serially uncorrelated vectors which have variance between 0 and a finite value ?
+
+stochastic innovations
+*************************************************************************************
+
+The Partial Auto Correlation Function is useful in detecting the Order of AR process.(COR)
+
+True
+*************************************************************************************
+
+In a time series , the rate of decay will decide the value of the coefficient terms.
+True
+*************************************************************************************
+In a time series , the near terms have a larger effect to the current term than the farther terms.(COR)
+True
+*************************************************************************************
+In vector auto regression , the estimation by ordinary least squares is equivalent to generalized least squares.
+True
+*************************************************************************************
+What is the range of smoothing constant alpha ?
+0 to 1
+*************************************************************************************
+________________________ is said to occur when the variance of the unobservable error , conditional on independent variables, is not Constant.
